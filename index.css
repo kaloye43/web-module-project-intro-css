@@ -1,0 +1,25 @@
+.pl1 {
+    align: center;
+    height: 150px;
+    width: 4000px;
+    background-color: red;
+}
+
+.pl2 {
+    height: 150px;
+    width: 4000px;
+    background-color: rgb(162, 0, 255);
+}
+
+.pl3 {
+    height: 150px;
+    width: 4000px;
+    background-color: #15ff00;
+}
+
+.bdhead {
+    vertical-align: top;
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
